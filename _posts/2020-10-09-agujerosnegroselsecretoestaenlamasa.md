@@ -7,6 +7,7 @@ header:
 categories:
   - Viaje al centro de la ciencia
 comments: true
+published: true
 author_profile: true
 tags:
   - Cascadas tróficas
