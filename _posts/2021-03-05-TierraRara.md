@@ -14,7 +14,7 @@ tags:
 date: 2021-03-03 15:30:00 +0200
 --- 
 
-*Nota: Esta es la continuación del post titulado “Más allá de lo que vemos: En busca de vida inteligente” [Medicina](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/drake/){:target="_blank"} en una serie de tres posts sobre vida extraterrestre. La serie culminará con un post sobre vida simple en el Sistema Solar que será publicado en un futuro cercano.*
+*Nota: Esta es la continuación del post titulado [Más allá de lo que vemos: En busca de vida inteligente](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/drake/){:target="_blank"} en una serie de tres posts sobre vida extraterrestre. La serie culminará con un post sobre vida simple en el Sistema Solar que será publicado en un futuro cercano.*
 
 Hace poco utilizamos la ecuación de Drake para hacer una estimación estadística sobre la posibilidad de que exista vida alienígena avanzada, así como el número de civilizaciones que podríamos encontrar en nuestra propia galaxia, la Vía Láctea. Dedujimos que podría haber un alto número de civilizaciones como la nuestra, aunque tal vez no se encontrasen en las inmediaciones de nuestro sistema solar. Un resultado sin duda esperanzador y alentador para aquellos que soñamos con una vida no nacida en la Tierra. Pero, ¿y si nuestros cálculos fueron un tanto utópicos? ¿Tuvimos en cuenta todos los factores necesarios para la evolución de la vida hasta el punto de ser capaz de comunicarse con el exterior de su propio planeta?
 
