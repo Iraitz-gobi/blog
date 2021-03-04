@@ -80,8 +80,5 @@ Para terminar me dirijo a ti, lector, y te pregunto: ¿Somos los seres terrestre
 
 ---
 **Para saber más**
-* Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
-	+ [Medicina](https://www.i-cpan.es/es/content/medicina){:target="_blank"}
-	+ [Tecnologías de la información y la Comunicación](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
-	+ [Producción de energías](https://www.i-cpan.es/es/content/energ%C3%ADa){:target="_blank"}
-	+ [Arte y patrimonio](https://www.i-cpan.es/es/content/arte-y-patrimonio){:target="_blank"}
+* Libro en el que se expone la hipótesis: *Rare Earth: Why Complex Life Is Uncommon in the Universe"  Peter Ward y Donald Brownlee, Copernicus Publications, (2000)*
+* [Más allá de lo que vemos: En busca de vida inteligente](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/drake/){:target="_blank"}
